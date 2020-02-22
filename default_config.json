@@ -34,10 +34,10 @@
 	},
 	"lets": {
 		"submit": {
-			"max-vanilla-pp": 800,
-			"max-std-pp": 1000000,
+			"max-vanilla-pp": 650,
+			"max-std-pp": 1400,
 			"score-overwrite": "pp",
-			"loved-dont-give-pp": false,
+			"loved-dont-give-pp": true,
 			"ignore-x-flag": false
 		},
 		"allowed-beatmap-rankstatus": {
